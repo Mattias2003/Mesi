@@ -39,55 +39,55 @@ public class File1 {
     }
     
     void stampaMessaggio(String m){
-      System.out.println(m);
+      System.out.println("gennaio");
     }
 
     void printGennaio(Scanner in){
-      //Inserire il codice qui
+      System.out.println("gennaio " ) ;
     }
     
     void printFebbraio(Scanner in){
-      //Inserire il codice qui
+       System.out.println("febbraio " ) ;
     }
     
     void printMarzo(Scanner in){
-      //Inserire il codice qui
+       System.out.println("marzo" ) ;
     }
     
     void printAprile(Scanner in){
-      //Inserire il codice qui
+       System.out.println("aprile" ) ;
     }
     
     void printMaggio(Scanner in){
-      //Inserire il codice qui
+      System.out.println("maggio" ) ;
     }
     
     void printGiugno(Scanner in){
-      //Inserire il codice qui
+       System.out.println("giugno " ) ;
     }
 
     void printLuglio(Scanner in){
-      //Inserire il codice qui
+       System.out.println("luglio" ) ;
     }
 
     void printAgosto(Scanner in){
-      //Inserire il codice qui
+       System.out.println("agosto" ) ;
     }
 
     void printSettembre(Scanner in){
-      //Inserire il codice qui
+       System.out.println("settembre" ) ;
     }
 
     void printOttobre(Scanner in){
-      //Inserire il codice qui
+       System.out.println("ottobre " ) ;
     }
 
     void printNovembre(Scanner in){
-      //Inserire il codice qui
+       System.out.println("novembre " ) ;
     }
     
     void printDicembre(Scanner in){
-      //Inserire il codice qui
+     System.out.println("diciembre" ) ;
     }
 
 }
